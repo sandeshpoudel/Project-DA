@@ -1,0 +1,26 @@
+,id,title,value,gender,category,date,email
+0,1,1. The Shawshank Redemption,0.1108440685743448,male,C,2020-01-01 00:00:00,user1@example.com
+1,2,2. The Godfather,0.1871975306453664,male,A,2020-01-01 00:01:00,user2@example.com
+2,3,3. The Dark Knight,0.8365224098264927,male,B,2020-01-01 00:02:00,user3@example.com
+3,4,4. The Godfather Part II,0.6545167017222661,female,B,2020-01-01 00:03:00,user4@example.com
+4,5,5. 12 Angry Men,0.7259488533835612,female,C,2020-01-01 00:04:00,user5@example.com
+5,6,6. The Lord of the Rings: The Return of the King,0.7644587953805743,female,A,2020-01-01 00:05:00,user6@example.com
+6,7,7. Schindler's List,0.2396809723929681,female,C,2020-01-01 00:06:00,user7@example.com
+7,8,8. Pulp Fiction,0.1167416106412926,female,,2020-01-01 00:07:00,user8@example.com
+8,9,9. The Lord of the Rings: The Fellowship of the Ring,0.9075729847304655,female,B,2020-01-01 00:08:00,user9@example.com
+9,10,"10. Il buono, il brutto, il cattivo",0.4402771977600507,female,B,2020-01-01 00:09:00,user10@example.com
+10,11,11. Forrest Gump,0.5910939982002253,male,C,2020-01-01 00:10:00,user11@example.com
+11,12,12. The Lord of the Rings: The Two Towers,0.8444698178089299,male,A,2020-01-01 00:11:00,user12@example.com
+12,13,13. Fight Club,0.7026223993408273,female,B,2020-01-01 00:12:00,user13@example.com
+13,14,14. Inception,0.0140848733288408,male,B,2020-01-01 00:13:00,user14@example.com
+14,15,15. Star Wars: Episode V - The Empire Strikes Back,0.1114253738963249,male,C,2020-01-01 00:14:00,user15@example.com
+15,16,16. The Matrix,0.1685333037401774,female,A,2020-01-01 00:15:00,user16@example.com
+16,17,17. GoodFellas,0.8364313847688644,female,C,2020-01-01 00:16:00,user17@example.com
+17,18,18. One Flew Over the Cuckoo's Nest,0.9812489049759257,male,B,2020-01-01 00:17:00,user18@example.com
+18,19,19. Interstellar,0.3520838801398677,female,,2020-01-01 00:18:00,user19@example.com
+19,20,20. Se7en,0.7999494630729954,male,C,2020-01-01 00:19:00,user20@example.com
+20,21,21. It's a Wonderful Life,0.7456659840053795,female,B,2020-01-01 00:20:00,user21@example.com
+21,22,22. The Silence of the Lambs,0.9525560217989146,male,C,2020-01-01 00:21:00,user22@example.com
+22,23,23. Shichinin no samurai,0.6086585648392381,male,C,2020-01-01 00:22:00,user23@example.com
+23,24,24. Saving Private Ryan,0.733895530310245,female,B,2020-01-01 00:23:00,user24@example.com
+24,25,25. Cidade de Deus,0.5981436588377866,male,A,2020-01-01 00:24:00,user25@example.com

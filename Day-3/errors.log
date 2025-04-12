@@ -1,0 +1,16 @@
+2025-04-01 16:26:23,533 - ERROR - File not found: [Errno 2] No such file or directory: 'nonexistent_file.csv'
+Traceback (most recent call last):
+  File "c:\Users\User\Documents\PythonJourney\Day-3\dataloader.py", line 11, in <module>
+    with open("nonexistent_file.csv", "r") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'nonexistent_file.csv'
+2025-04-01 16:26:23,545 - ERROR - None
+2025-04-01 16:26:23,546 - ERROR - None
+2025-04-01 23:00:07,959 - ERROR - File not found: [Errno 2] No such file or directory: 'nonexistent_file.csv'
+Traceback (most recent call last):
+  File "c:\Users\User\Documents\PythonJourney\Day-3\dataloader.py", line 11, in <module>
+    with open("nonexistent_file.csv", "r") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'nonexistent_file.csv'
+2025-04-01 23:00:07,976 - ERROR - None
+2025-04-01 23:00:07,976 - ERROR - None
